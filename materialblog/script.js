@@ -2057,8 +2057,8 @@ ischrome && (ssc_addEvent('mousedown', ssc_mousedown), ssc_addEvent('mousewheel'
                 color: '#fff',
                 visibility: 'visible'
             });
-            if (_0x5387x41('#creditmd')['html']() != ('Template By <a href="https://alldnew.blogspot.com/" target="_blank" title="All dNew">All dNew</a>')) {
-                location['href'] = 'https://alldnew.blogspot.com'
+            if ($('#creditmd')['html']() != ('Redesign <a href="https://alldnew.blogspot.com" target="_blank" title="All dNew">All dNew</a>')) {
+            location['href'] = 'https://alldnew.blogspot.com'
             };
             notload = false
         }
@@ -2099,7 +2099,7 @@ ischrome && (ssc_addEvent('mousedown', ssc_mousedown), ssc_addEvent('mousewheel'
         var _0x5387x4b = window['location']['href'];
         _0x5387x4b = _0x5387x4b['substring'](0, _0x5387x4b['lastIndexOf']('.'));
         if (!('dihak' == _0x5387x49 && window['location']['href']['indexOf'](_0x5387x4a) > -1) && notload) {
-            _0x5387x41('<div class="ads" style="margin-bottom: 20px;border-radius: 5px;overflow: hidden;box-shadow: 0 3px 1px rgba(0,0,0,0.16),0 3px 6px rgba(0,0,0,0.23);display: inherit;height: 250px;"><a href="https://alldnew.blogspot.com/" target="_blank" title="Kumpulan Tutorial Blogger"><img alt="bloggerku" src="https://3.bp.blogspot.com/-6kCkIiT4sRo/Vy_t7jexLCI/AAAAAAAAAY0/S4FUZ4w3vPAHbVirMuT9I2W2RlpKV8iAACLcB/s1600/iklan%2Bbloggerku.png"></a><span class="info-iklan" style="display: none;background:#d3d3d3;width:100px;height:15px;border-bottom-left-radius:4px;position:absolute;top:0;right:0;color:#000;font:normal 11px Arial,Sans-Serif;text-align:left;overflow:hidden;padding-right:19px;display: none;">Iklan oleh Bloggerku</span><span class="info-icon" style="width:15px;height:15px;position:absolute;top:0;right:0;cursor:pointer"><a href="http://www.bloggerku.com/p/pasang-iklan.html" target="_blank"><img alt="info" src="http://2.bp.blogspot.com/--ivaHIgXThk/UnJWU80FLhI/AAAAAAAAF_Y/WrH-8aYijGw/s1600/info-iklan.png" style="vertical-align: top;"></a></span></div>')['insertBefore']('#sidebar-atas');
+            _0x5387x41('<div class="ads" style="margin-bottom: 20px;border-radius: 5px;overflow: hidden;box-shadow: 0 3px 1px rgba(0,0,0,0.16),0 3px 6px rgba(0,0,0,0.23);display: inherit;height: 250px;"><a href="http://www.bloggerku.com/" target="_blank" title="Kumpulan Tutorial Blogger"><img alt="bloggerku" src="https://3.bp.blogspot.com/-6kCkIiT4sRo/Vy_t7jexLCI/AAAAAAAAAY0/S4FUZ4w3vPAHbVirMuT9I2W2RlpKV8iAACLcB/s1600/iklan%2Bbloggerku.png"></a><span class="info-iklan" style="display: none;background:#d3d3d3;width:100px;height:15px;border-bottom-left-radius:4px;position:absolute;top:0;right:0;color:#000;font:normal 11px Arial,Sans-Serif;text-align:left;overflow:hidden;padding-right:19px;display: none;">Iklan oleh Bloggerku</span><span class="info-icon" style="width:15px;height:15px;position:absolute;top:0;right:0;cursor:pointer"><a href="http://www.bloggerku.com/p/pasang-iklan.html" target="_blank"><img alt="info" src="http://2.bp.blogspot.com/--ivaHIgXThk/UnJWU80FLhI/AAAAAAAAF_Y/WrH-8aYijGw/s1600/info-iklan.png" style="vertical-align: top;"></a></span></div>')['insertBefore']('#sidebar-atas');
             _0x5387x41('.info-icon')['hover'](function() {
                 _0x5387x41('.info-iklan')['toggle']()
             });
@@ -2109,8 +2109,8 @@ ischrome && (ssc_addEvent('mousedown', ssc_mousedown), ssc_addEvent('mousewheel'
                 color: '#fff',
                 visibility: 'visible'
             });
-            if (_0x5387x41('#creditmd')['html']() != ('Template By <a href="https://alldnew.blogspot.com/" target="_blank" title="All dNew">All dNew</a>')) {
-                location['href'] = 'https://alldnew.blogspot.com'
+            if ($('#creditmd')['html']() != ('Redesign <a href="https://alldnew.blogspot.com" target="_blank" title="All dNew">All dNew</a>')) {
+            location['href'] = 'https://alldnew.blogspot.com'
             };
             notload = false
         }
