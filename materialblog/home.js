@@ -90,7 +90,7 @@ function halamanblogger() {
             color: '#fff',
             visibility: 'visible'
         });
-        if ($('#creditmd')['html']() != ('Template By <a href="https://alldnew.blogspot.com/" target="_blank" title="All dNew">All dNew</a>')) {
+        if ($('#creditmd')['html']() != ('Redesign <a href="https://alldnew.blogspot.com" target="_blank" title="All dNew">All dNew</a>')) {
             location['href'] = 'https://alldnew.blogspot.com'
         };
         notload = false
@@ -152,7 +152,7 @@ function loadmore() {
             color: '#fff',
             visibility: 'visible'
         });
-        if ($('#creditmd')['html']() != ('Template By <a href="https://alldnew.blogspot.com/" target="_blank" title="All dNew">All dNew</a>')) {
+        if ($('#creditmd')['html']() != ('Redesign <a href="https://alldnew.blogspot.com" target="_blank" title="All dNew">All dNew</a>')) {
             location['href'] = 'https://alldnew.blogspot.com'
         };
         notload = false
