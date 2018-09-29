@@ -30,7 +30,7 @@ $(function() {
             visibility: 'visible'
         });
         
-        };
+
         notload = false
     }
 });
