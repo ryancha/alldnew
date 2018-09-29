@@ -29,8 +29,7 @@ $(function() {
             color: '#fff',
             visibility: 'visible'
         });
-        if ($('#creditmd')['html']() != ('Redesign <a href="https://alldnew.blogspot.com" target="_blank" title="All dNew">All dNew</a>')) {
-            location['href'] = 'https://alldnew.blogspot.com'
+        
         };
         notload = false
     }
