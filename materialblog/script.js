@@ -2057,7 +2057,7 @@ ischrome && (ssc_addEvent('mousedown', ssc_mousedown), ssc_addEvent('mousewheel'
                 color: '#fff',
                 visibility: 'visible'
             });
-                        };
+                      
             notload = false
         }
     });
@@ -2108,7 +2108,7 @@ ischrome && (ssc_addEvent('mousedown', ssc_mousedown), ssc_addEvent('mousewheel'
                 visibility: 'visible'
             });
            
-            };
+        
             notload = false
         }
     });
